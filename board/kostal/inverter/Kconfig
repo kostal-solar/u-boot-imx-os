@@ -1,0 +1,12 @@
+if TARGET_KIE_INVERTER
+
+config SYS_BOARD
+	default "inverter"
+
+config SYS_VENDOR
+	default "kostal"
+
+config SYS_CONFIG_NAME
+	default "imx6ull-inverter"
+
+endif

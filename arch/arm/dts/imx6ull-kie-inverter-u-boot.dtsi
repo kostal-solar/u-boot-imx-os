@@ -1,0 +1,9 @@
+// SPDX-License-Identifier: GPL-2.0+
+/*
+ * Copyright (C) 2021 DENX Software Engineering GmbH
+ * Author: Lukasz Majewski <lukma@denx.de>
+ */
+
+&pca8574 {
+	u-boot,i2c-offset-len = <0>;
+};

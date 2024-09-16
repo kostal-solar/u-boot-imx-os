@@ -1,0 +1,6 @@
+INVERTER BOARD
+M:	Stefano Babic <sbabic@denx.de>
+S:	Maintained
+F:	board/kostal/inverter
+F:	include/configs/imx6ull-inverter.h
+F:	configs/kostal_kie_ull_defconfig
