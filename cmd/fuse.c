@@ -1,5 +1,8 @@
 // SPDX-License-Identifier: GPL-2.0+
-/*
+/* 
+ * Copyright (C) 2024 Kostal Industrie Elektrik GmbH & Co. KG
+ * Copyright (C) 2024 Henry Hermanns <h.hermanns@kostal.com>
+ * 
  * (C) Copyright 2009-2013 ADVANSEE
  * Benoît Thébaudeau <benoit.thebaudeau@advansee.com>
  *

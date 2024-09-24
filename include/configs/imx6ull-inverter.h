@@ -1,6 +1,10 @@
 /* SPDX-License-Identifier: GPL-2.0+ */
 /*
  * Board configuration file for Kostal KIE imx6ULL
+ * 
+ * Copyright (C) 2024 Kostal Industrie Elektrik GmbH & Co. KG
+ * Copyright (C) 2024 Henry Hermanns <h.hermanns@kostal.com>
+ *
  * Copyright (C) 2019 Parthiban Nallathambi <pn@denx.de>
  *
  */
