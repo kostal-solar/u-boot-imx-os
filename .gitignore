@@ -25,6 +25,7 @@
 *.o
 *.o.*
 *.order
+*.patch
 *.s
 *.su
 *.swp

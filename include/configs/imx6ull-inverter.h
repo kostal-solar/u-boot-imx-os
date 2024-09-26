@@ -6,7 +6,6 @@
  * Copyright (C) 2024 Henry Hermanns <h.hermanns@kostal.com>
  *
  * Copyright (C) 2019 Parthiban Nallathambi <pn@denx.de>
- *
  */
 #ifndef __KIE_ULL_H
 #define __KIE_ULL_H
